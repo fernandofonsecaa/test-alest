@@ -5,6 +5,8 @@ Desafio Alest
 
 ##A finalidade da aplicação é realizar um CRUD com um banco NOSQL
 
+## O projeto está em fase de desenvolvimento
+
 ##Para rodar o projeto será necessário instalar o NodeJs
 #Clone o repositório
 
